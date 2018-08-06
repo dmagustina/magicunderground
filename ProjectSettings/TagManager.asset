@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - castle
+  - enemy
+  - spell
+  - spellCatcher
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - enemy
+  - spellCatcher
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3280145733
+    locked: 0
+  - name: enemy
+    uniqueID: 1810518771
+    locked: 0
+  - name: castle
+    uniqueID: 2142813361
+    locked: 0
+  - name: spell
+    uniqueID: 1298850533
+    locked: 0
+  - name: controls
+    uniqueID: 957881155
+    locked: 0
